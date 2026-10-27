@@ -2,7 +2,7 @@
 
 A high-contrast Cyberpunk theme for [Omarchy](https://omarchy.org/).
 
-![Cyberpunkui Preview](preview.png)
+![Cyberpunkui Preview](preview.png?v=2)
 
 ## Installation
 
